@@ -1,3 +1,4 @@
+package eason.com
 
 class InteceptorTest implements GroovyInterceptable {
 

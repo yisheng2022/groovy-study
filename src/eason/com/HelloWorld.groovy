@@ -1,3 +1,5 @@
+package eason.com
+
 class HelloWorld {
     static void main(String[] args) {
         def str = "hello world...";
@@ -6,7 +8,7 @@ class HelloWorld {
         int [] array = [1,2,3]
         println "array = $array"
         println("hello world...")
-        println "HelloWorld.main"
+        println "eason.com.HelloWorld.main"
         println "args = $args"
 
         // ==的行为

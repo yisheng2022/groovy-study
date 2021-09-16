@@ -1,4 +1,4 @@
-package some
+package eason.com.some
 
 class POGO {
 
